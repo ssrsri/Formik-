@@ -1,0 +1,7 @@
+.form_input{
+    margin-left: 6px;
+    background-color: white;
+    width: 43px;
+    height: auto;
+    z-index: 10;
+}
